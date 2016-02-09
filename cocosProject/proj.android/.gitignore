@@ -1,0 +1,11 @@
+obj/*
+bin/*
+gen/*
+out/*
+app/*
+local.properties
+assets/*
+*.apk
+libs/armeabi/*
+proj.android.iml
+.idea/*

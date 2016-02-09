@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <!-- Google Play Services -->
+	     <string name="google_play_game_app_id">000000000000</string> <!-- SET TO YOUR GPG APP ID -->
+	    
+	    <string name="gamehelper_alert">Not working yet, sorry.</string>
+	    <string name="gamehelper_sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+	    <string name="gamehelper_app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
+	    <string name="gamehelper_license_failed">License check failed.</string>
+	    <string name="gamehelper_unknown_error">Unknown error.</string>
+	    <string name="fail_submit_score_leaderboard">Fail to submit {score} to leaderboard: {leaderboardID} or need sign in.</string>
+	    <string name="fail_unlock_achievement">Fail unlocking achievement: {achievementID} or need sign in.</string>
+	    <string name="fail_increment_achievement">Fail increment achievement: {achievementID} in steps: {numSteps} or need sign in.</string>
+	    <string name="fail_show_achievements">Fail showing achievements or need sign in.</string>
+	    <string name="fail_show_leaderboards">Fail showing leaderboards or need sign in.</string>
+	    <string name="fail_show_leaderboard">Fail showing leaderboard: {leaderboardID} or need sign in.</string>
+	<!-- Google Play Services End -->
+    
+    <!-- Game Analytics API -->
+		<string name="game_analytics_secret_key">00000000000000000000000000000000000</string>
+		<string name="game_analytics_game_key">00000000000000000000000000000</string>
+	<!-- Game Analytics API -->
+	
+	<!-- Google Analytics API -->
+		<string name="google_analytics_tracking_id"></string>
+	<!-- Google Analytics API -->
+
+	<!-- Chartboost -->
+		<string name="chartboost_app_id">55baa76ccxxxa61a036a8xxx</string>
+		<string name="chartboost_app_signature">xxxx104b73aed9b42941a827cfa0196a3240xxxx</string> 
+	<!-- Chartboost End -->
+	
+</resources>

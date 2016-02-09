@@ -1,0 +1,7 @@
+.fscache
+.DS_Store
+/cocosProject/compile_commands.json
+*.cmake
+*.DS_Store
+CMakeFiles
+*CMakeCache.txt

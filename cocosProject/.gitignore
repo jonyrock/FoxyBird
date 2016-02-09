@@ -1,0 +1,6 @@
+*.DS_Store
+lib/
+bin/
+Makefile
+cocos2d/*
+.idea/*

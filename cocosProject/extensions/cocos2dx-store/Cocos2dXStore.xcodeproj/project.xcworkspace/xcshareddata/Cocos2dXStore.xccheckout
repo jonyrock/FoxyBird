@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>30560406-1079-43F9-AD9C-2F9F3B1349B5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Cocos2dXStore</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4B90BBCF10BEC805C707FF35B2DBC0836E21AA0B</key>
+		<string>github.com:jonyrock/CocosGames.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cocosProject/extensions/cocos2dx-store/Cocos2dXStore.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4B90BBCF10BEC805C707FF35B2DBC0836E21AA0B</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:jonyrock/CocosGames.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4B90BBCF10BEC805C707FF35B2DBC0836E21AA0B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4B90BBCF10BEC805C707FF35B2DBC0836E21AA0B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FoxyBird</string>
+		</dict>
+	</array>
+</dict>
+</plist>
